@@ -13,7 +13,7 @@
 
 -  I’m currently learning **Kotlin, Flutter, MERN**
 
--  Ask me about **Android, MERN**
+-  Ask me about **Android, MERN, Flutter**
 
 -  How to reach me **eugeneoyier@gmail.com**
 
