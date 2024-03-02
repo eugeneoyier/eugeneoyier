@@ -1,6 +1,5 @@
 <h1 align="center">Hi , I'm Eugene Oyier!</h1>
 <h3 align="center">A passionate developer from Nairobi, Kenya.</h3>
-<p align="center"><img alt="MasterHead" src="https://j.gifs.com/KdnqJW.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d"></p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/638428/screenshots/3641004/code2.gif">
 
