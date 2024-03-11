@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Eugene Oyier</h1>
+<h1 align="center">Hi , I'm Eugene</h1>
 <h3 align="center">A passionate developer from Nairobi, Kenya.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/638428/screenshots/3641004/code2.gif">
